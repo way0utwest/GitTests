@@ -1,2 +1,2 @@
 Create View LogView as
-select * from Logl
+select LogKey, LogMsg from Logl
