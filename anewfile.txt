@@ -1,0 +1,1 @@
+This is a new file for the commit amend test
