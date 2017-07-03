@@ -1,0 +1,1 @@
+create table Capabilities (CapabilityID int, Capabilityname varchar(200))
