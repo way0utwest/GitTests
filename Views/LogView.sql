@@ -1,2 +1,4 @@
-Create View LogView as
-select LogKey, LogMsg from Logl
+ALTER VIEW LogView
+AS
+SELECT LogKey, LogMsg
+ FROM Logl;
