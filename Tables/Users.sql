@@ -3,4 +3,5 @@ create table Users
 , Username varchar(20)
 , ModifiedBy VARCHAR(50)
 , ModifiedDate date
+, Active Status default 0
 );
