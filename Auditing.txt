@@ -1,0 +1,2 @@
+We need to add auditing to all changes.
+Since we cannot use Temporal, let's add a modified by and modified date to all tables
